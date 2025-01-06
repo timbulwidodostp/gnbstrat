@@ -1,5 +1,5 @@
-d 'DEA': Data envelopment analysis
+d 'gnbstrat': Generalized negative binomial with endogenous stratification Use gnbstrat With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f gnbstrat.ado
+f gnbstrat.hlp
+f jhnbstr_ll.ado
