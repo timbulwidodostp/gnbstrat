@@ -1,6 +1,8 @@
 # gnbstrat
 Generalized negative binomial with endogenous stratification Use gnbstrat With STATA 18
 
+https://www.youtube.com/watch?v=eU0pjX1gHtk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
